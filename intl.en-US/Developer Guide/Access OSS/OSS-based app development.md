@@ -52,7 +52,7 @@ Typical OSS-based app development involves the following four components:
 
 -   Data download with temporary credential authorization
 
-    The process of data download with temporary credential authorization is similar to that of data download with temporary credential authorization:
+    The process of data download with temporary credential authorization is similar to that of data upload with temporary credential authorization:
 
     1.  The client sends the application server the request of downloading data from OSS.
     2.  The application server sends a request to STS and obtains temporary credentials \(STS AccessKey and token\).
